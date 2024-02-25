@@ -1,0 +1,16 @@
+{
+  "employees": [
+    {
+      "studentName": "dadada",
+      "registrationNumber": 12345,
+      "permAddress": "ssasdghj",
+      "email": "as@dw.colm",
+      "dob": "2024-02-19T18:30:00.000Z",
+      "gender": "",
+      "hobbies": ["swimming","Gaming"],
+      "higherEdu": "Graduate",
+      "phoneNo": "8978788987",
+      "id": "1"
+    }
+  ]
+}
